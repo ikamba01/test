@@ -4,17 +4,13 @@
     width: 100%;
 }
 
-.header .tithead h1 {
-    text-align: center;
-    color: white;
-}
-
 
 /* body content flexbox zone*/
 
 .contenaire {
     display: flex;
     justify-content: space-evenly;
+    margin-left: 120px;
 }
 
 .img {
@@ -24,8 +20,6 @@
 body {
     background-color: coral;
     margin: 0;
-    height: 100%;
-    background-position: ;
 }
 
 .modul {
@@ -43,5 +37,5 @@ body {
 .para1 {
     display: grid;
     grid-template-columns: repeat(5, 20%);
-    margin-right: 120px;
+    margin-left: 40px;
 }
