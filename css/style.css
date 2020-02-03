@@ -10,7 +10,6 @@
 .contenaire {
     display: flex;
     justify-content: space-evenly;
-    margin-left: 120px;
 }
 
 .img {
@@ -37,5 +36,5 @@ body {
 .para1 {
     display: grid;
     grid-template-columns: repeat(5, 20%);
-    margin-left: 40px;
+    margin-left: 20px;
 }
